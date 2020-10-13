@@ -1,0 +1,31 @@
+h1 {
+  text-align: center;
+}
+body {
+  background-color: #000000;
+  background-image: url("https://www.transparenttextures.com/patterns/asfalt-light.png");
+  color: red;
+}
+
+p {
+  font-size: 12px;
+  font-family: sans-serif;
+}
+h1 {
+  font-size: 24;
+  font-family: sans-serif;
+}
+
+h2 {
+  font-size: 20;
+  font-family: sans-serif;
+}
+h3 {
+  font-size: 16;
+  font-family: sans-serif;
+}
+
+h4 {
+  font-size: 16;
+  font-family: sans-serif;
+}

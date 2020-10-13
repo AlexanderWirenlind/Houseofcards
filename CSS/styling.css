@@ -1,0 +1,45 @@
+h1 {
+  text-align: center;
+}
+.sputnik {
+  background-color: #000000;
+  background-image: url("https://www.transparenttextures.com/patterns/asfalt-light.png");
+  color: red;
+}
+#top {
+  color: gray;
+}
+
+p {
+  font-size: 12px;
+  font-family: sans-serif;
+}
+ul {
+padding: 0;
+margin: 0;
+list-style-type: none;
+overflow: hidden;
+border:0.5px solid #e7e7e7;
+background-color: #f3f3f3;
+top: 0;
+position: fixed;
+width: 100%;
+}
+
+li {
+  float: left;
+}
+
+li a {
+color: #666;
+display: block;
+text-align: center;
+padding: 16px 14px;
+}
+li a:hover {
+  background-color: #111;
+}
+/* detta är en kod för en stylad meny*/
+img {
+  align-items: center;
+}
