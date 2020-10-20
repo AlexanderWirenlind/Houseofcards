@@ -14,7 +14,7 @@ p {
   font-size: 12px;
   font-family: sans-serif;
 }
-ul {
+.meny {
 padding: 0;
 margin: 0;
 list-style-type: none;
@@ -26,17 +26,17 @@ position: fixed;
 width: 100%;
 }
 
-li {
+.meny li {
   float: left;
 }
 
-li a {
+.meny li a {
 color: #666;
 display: block;
 text-align: center;
 padding: 16px 14px;
 }
-li a:hover {
+.meny li a:hover {
   background-color: #111;
 }
 /* detta är en kod för en stylad meny*/
